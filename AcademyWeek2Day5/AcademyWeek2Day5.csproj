@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AcademyWeek2Day5.ADO\AcademyWeek2Day5.ADO.csproj" />
+    <ProjectReference Include="..\AcademyWeek2Day5.Entity\AcademyWeek2Day5.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
